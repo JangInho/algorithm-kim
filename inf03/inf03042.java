@@ -1,5 +1,6 @@
 import java.util.*;
 
+// lt 와 rt 사이의 합이 sum 이 된다는게 중요하다
 public class inf03042 {
     
     public static void main(String args[]) {
@@ -25,14 +26,14 @@ public class inf03042 {
                 answer++;
             }
 
-            if (sum > targetSum) {
-                while (sum <= targetSum) {
+            // if (sum > targetSum) {
+                while (sum > targetSum) {
                     sum -= arr[lt++];
                     if (sum == targetSum) {
                         answer++;
                     }
                 }
-            }
+            // }
 
          }
 
