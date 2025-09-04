@@ -26,7 +26,7 @@ public class inf03051 {
 
             while (sum > n) {
                 sum -= arr[lt++];
-                if (sum == n) answer++;
+                if (sum == n && lt != rt) answer++;
             }
         }
 
