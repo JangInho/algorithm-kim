@@ -19,7 +19,6 @@ public class inf0402 {
             map2.put(a, map2.getOrDefault(a, 0)+1);
         }
 
-        
         boolean isAnagram = true;
         for(char a : map1.keySet()) {
             if (!map2.containsKey(a) || map2.get(a) != map1.get(a) ) {
@@ -39,6 +38,5 @@ public class inf0402 {
             System.out.println("NO");
         }
             
-
     }
 }
