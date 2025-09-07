@@ -16,6 +16,7 @@ public class inf0403 {
         }
 
         ArrayList<Integer> ans = new ArrayList<>();
+        
         for (int i = 0; i<cnt-(seq-1); i++) {
             HashMap<Integer, Integer> map = new HashMap<>();
             for (int j=i; j<i+seq; j++) {
