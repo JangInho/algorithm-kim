@@ -13,12 +13,18 @@ public class inf0502 {
             if (a != ')') {
                 stack.push(a);
             } else if (a == ')') {
-                while (stack.peek() != '(') {
-                    stack.pop();
+                // while (stack.peek() != '(') {
+                //     stack.pop();
+                // } 
+                // if (stack.peek() == '(') {
+                //     stack.pop();
+                // }
+
+                // pop을 사용한 반복문 사용
+                while (stack.pop() != '(') {
+                
                 } 
-                if (stack.peek() == '(') {
-                    stack.pop();
-                }
+                
             }
         }
 
