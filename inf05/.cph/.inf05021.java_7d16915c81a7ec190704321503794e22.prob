@@ -1,0 +1,1 @@
+{"name":"Local: inf05021","url":"/Users/jang-inho/Desktop/algorithm-kim/inf05/inf05021.java","tests":[{"id":1766831905327,"input":"5\n0 0 0 0 0\n0 0 1 0 3\n0 2 5 0 1\n4 2 4 4 2\n3 5 1 3 1\n8\n1 5 3 5 1 2 1 4","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jang-inho/Desktop/algorithm-kim/inf05/inf05021.java","group":"local","local":true}
