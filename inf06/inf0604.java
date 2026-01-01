@@ -22,7 +22,7 @@ public class inf0604 {
                 qu.remove(a);
                 qu.offer(a);
 
-            } else if (qu.size() >= 5) {
+            } else if (qu.size() >= s) {
                 qu.poll();
                 qu.offer(a);
                 
