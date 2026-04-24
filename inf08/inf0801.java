@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class inf0801 {
@@ -23,5 +24,3 @@ public class inf0801 {
         DFS(n);
         
     } 
-    
-}

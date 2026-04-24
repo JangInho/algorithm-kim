@@ -1,4 +1,4 @@
-package inf09;
+
 
 import java.util.*;
 
@@ -11,10 +11,18 @@ public class inf0904 {
         
         if (i == m) {
             
-            
+            for (int k = 0; k < m; k++) {
+                System.out.print(pm[k] + " ");
+            }
+            System.out.println();
 
         } else {
             
+            for (int k = 0; k < n; k++) {
+                pm[i] = k + 1;
+                DFS(i+1);
+            }
+
         }
         
     }
@@ -29,8 +37,9 @@ public class inf0904 {
 
         n = sc.nextInt();
         m = sc.nextInt();
+        pm = new int[m];
         
-        
+        DFS(0);
 
         
     }
