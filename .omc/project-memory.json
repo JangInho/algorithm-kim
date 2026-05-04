@@ -1,0 +1,202 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776992190162,
+  "projectRoot": "C:\\Users\\sure\\Desktop\\algorithm-kim",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "test"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "baekjoon": {
+      "path": "baekjoon",
+      "purpose": null,
+      "fileCount": 24,
+      "lastAccessed": 1776992190131,
+      "keyFiles": [
+        "baekjoo1748.class",
+        "baekjoo1748.java",
+        "baekjoon1004.class",
+        "baekjoon1004.java",
+        "baekjoon1032.class"
+      ]
+    },
+    "inf01": {
+      "path": "inf01",
+      "purpose": null,
+      "fileCount": 17,
+      "lastAccessed": 1776992190131,
+      "keyFiles": [
+        "inf0101.class",
+        "inf01011.class",
+        "inf01011.java",
+        "inf0102.class",
+        "inf0103.class"
+      ]
+    },
+    "inf02": {
+      "path": "inf02",
+      "purpose": null,
+      "fileCount": 17,
+      "lastAccessed": 1776992190132,
+      "keyFiles": [
+        "inf0201.class",
+        "inf0202.class",
+        "inf0203.class",
+        "inf0204.class",
+        "inf02041.class"
+      ]
+    },
+    "inf03": {
+      "path": "inf03",
+      "purpose": null,
+      "fileCount": 22,
+      "lastAccessed": 1776992190132,
+      "keyFiles": [
+        "inf0301.class",
+        "inf03011.class",
+        "inf03011.java",
+        "inf0302.class",
+        "inf0302.java"
+      ]
+    },
+    "inf04": {
+      "path": "inf04",
+      "purpose": null,
+      "fileCount": 21,
+      "lastAccessed": 1776992190133,
+      "keyFiles": [
+        "inf0401.class",
+        "inf0401.java",
+        "inf04011.class",
+        "inf04011.java",
+        "inf04012.class"
+      ]
+    },
+    "inf05": {
+      "path": "inf05",
+      "purpose": null,
+      "fileCount": 25,
+      "lastAccessed": 1776992190133,
+      "keyFiles": [
+        "inf0501.class",
+        "inf0501.java",
+        "inf05011.class",
+        "inf05011.java",
+        "inf05012.class"
+      ]
+    },
+    "inf06": {
+      "path": "inf06",
+      "purpose": null,
+      "fileCount": 18,
+      "lastAccessed": 1776992190134,
+      "keyFiles": [
+        "inf0601.class",
+        "inf0601.java",
+        "inf06011.class",
+        "inf06011.java",
+        "inf0602.class"
+      ]
+    },
+    "inf07": {
+      "path": "inf07",
+      "purpose": null,
+      "fileCount": 27,
+      "lastAccessed": 1776992190135,
+      "keyFiles": [
+        "inf0701.class",
+        "inf0701.java",
+        "inf0702.class",
+        "inf0702.java",
+        "inf0705.class"
+      ]
+    },
+    "inf08": {
+      "path": "inf08",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1776992190135,
+      "keyFiles": [
+        "inf0801.java",
+        "inf0802.class",
+        "inf0802.java"
+      ]
+    },
+    "inf10": {
+      "path": "inf10",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1776992190136,
+      "keyFiles": [
+        "inf1001.class",
+        "inf1001.java"
+      ]
+    },
+    "test": {
+      "path": "test",
+      "purpose": "Test files",
+      "fileCount": 13,
+      "lastAccessed": 1776992190136,
+      "keyFiles": [
+        "MiniGit$Commit.class",
+        "MiniGit$Repo.class",
+        "MiniGit.class",
+        "MiniGit.java",
+        "Test$Repo$Commit.class"
+      ]
+    },
+    "test\\test": {
+      "path": "test\\test",
+      "purpose": "Test files",
+      "fileCount": 6,
+      "lastAccessed": 1776992190140,
+      "keyFiles": [
+        "Test$Repo$Commit.class",
+        "Test$Repo.class",
+        "Test.class"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "inf08\\inf0801.java",
+      "accessCount": 1,
+      "lastAccessed": 1776992222409,
+      "type": "file"
+    },
+    {
+      "path": "inf08\\inf0802.java",
+      "accessCount": 1,
+      "lastAccessed": 1776992222656,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
